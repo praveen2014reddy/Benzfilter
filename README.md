@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://i.ibb.co/pJXXSDK/telugu-new-logo-with-caption.png" alt="Telugumv-Filter-Bot Logo">
+  <img src="https://envs.sh/P0O.jpg" alt="B E N Z F I L T E R B O T">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+TELUGUMVFILTER+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TELUGUMV™;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗧𝗛𝗜𝗦+𝗜𝗦+B E N Z +𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+B E N Z;𝗔+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
   
 <h1 align="center">
-  <b> TELUGUMV FILTER BOT PRO </b>
+  <b> B E N Z F I L T E R B O T </b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/ROHITHRD/Telugu_Filterbot_pro/stargazers)
-[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/ROHITHRD/Telugu_Filterbot_pro/fork)
-[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/ROHITHRD/Telugu_Filterbot_pro)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ROHITHRD/Telugu_Filterbot_pro)   
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/ROHITHRD/Telugu_Filterbot_pro/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/Benzmovies799/Benzmovies_filterbot_pro/stargazers)
+[![Forks](https://img.shields.io/github/forks/MrMKN/PROFESSOR-BOT?style=flat-square&color=orange)](https://github.com/Benzmovies799/Benzmovies_filterbot_pro/fork)
+[![Size](https://img.shields.io/github/repo-size/MrMKN/PROFESSOR-BOT?style=flat-square&color=green)](https://github.com/Benzmovies799/Benzmovies_filterbot_pro)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Benzmovies799/Benzmovies_filterbot_pro)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Benzmovies799/Benzmovies_filterbot_pro/blob/main/LICENSE)
 
-[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://github.com/ROHITHRD/Telugu_Filterbot_pro)
+[![Sparkline](https://stars.medv.io/MrMKN/PROFESSOR-BOT.svg)](https://github.com/Benzmovies799/Benzmovies_filterbot_pro)
 
 <details>
 <summary><b>Features</b></summary>
@@ -81,13 +81,13 @@
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ROHITHRD/Telugu_Filterbot_pro)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Benzmovies799/Benzmovies_filterbot_pro)
 </details>
 
 <details>
 <summary><b>Deploy to Koyeb</b></summary>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/ROHITHRD/Telugu_Filterbot_pro&env[WEBHOOK]=True&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URL]&env[DATABASE_NAME]=Telugumvfilterbot&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[PM_IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[SHORT_URL]&env[SHORT_API]&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=master&name=Telugu_Filterbot_pro)              
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Benzmovies799/Benzmovies_filterbot_pro&env[WEBHOOK]=True&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[CHANNELS]&env[ADMINS]&env[PICS]&env[LOG_CHANNEL]&env[AUTH_CHANNEL]&env[MAX_RIST_BTNS]=10&env[CUSTOM_FILE_CAPTION]&env[DATABASE_URL]&env[DATABASE_NAME]=Telugumvfilterbot&env[COLLECTION_NAME]=Telegram_files&env[SUPPORT_CHAT]&env[IMDB]=True&env[PM_IMDB]=True&env[IMDB_TEMPLATE]&env[IMDB_DELET_TIME]=900&env[SINGLE_BUTTON]=True&env[SHORT_URL]&env[SHORT_API]&env[PMFILTER]=True&env[G_FILTER]=True&env[BUTTON_LOCK]=True&env[P_TTI_SHOW_OFF]=True&run_command=python%20bot.py&branch=master&name=Benzmovies_filterbot_pro)              
 </details>
 
 <details>
@@ -125,10 +125,10 @@ broadcast - to broadcast a message to all Eva Maria users
 
 ## TELAGRAM SUPPORT 
 
-* [![MKN BOTZ](https://img.shields.io/static/v1?label=Telugumv&message=BOTZ&color=critical)](https://t.me/telugumvxyz2)
+* [![MKN BOTZ](https://img.shields.io/static/v1?label=Telugumv&message=BOTZ&color=critical)](https://t.me/benzmovies)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 3.0.](https://github.com/ROHITHRD/Telugu_Filterbot_pro/blob/main/LICENSE)
+Licensed under [GNU AGPL 3.0.](https://github.com/Benzmovies799/Benzmovies_filterbot_pro/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*. (its external alert)
 
