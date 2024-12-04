@@ -8,17 +8,17 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/Benzmovies>Benzmawa</a>
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/telugumvxyz2>Telugumv</a>
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/benzmovies>Benzmovies</a>
-✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
-✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Mʏ Sᴇʀᴠᴇʀ: www.telugumv.xyz
-✯ Mʏ Vᴇʀꜱɪᴏɴ: Telugumv-Filter-Bot ᴠ4.5.0</b>"""
+✯ Cᴏᴅᴇᴅ Oɴ: Own system......
+✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Localhost
+✯ Mʏ Sᴇʀᴠᴇʀ: serveremledhu.com
+✯ Mʏ Vᴇʀꜱɪᴏɴ: Born Baby</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
-- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/ROHITHRD/Telugu_Filterbot_pro>Telugu_Filterbot_pro</a>
+- ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=sourcecodeemled.com</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/telugumvxyz2>Telugumv</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://t.me/Benzmovies>Benzmawa</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -29,7 +29,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/telugumvxyz2/1 https://t.me/telugumvxyz2/10</code>"""
+</code>/batch https://t.me/Benzmovies</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
