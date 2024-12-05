@@ -9,7 +9,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/Benzmovies>Benzmawa</a>
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/telugumvxyz2>Telugumv</a>
+✯ Best Friend : <a herf=https://telegram.dog/telugumvxyz2>Telugumv</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: Own system......
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Localhost
 ✯ Mʏ Sᴇʀᴠᴇʀ: serveremledhu.com
