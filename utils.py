@@ -140,7 +140,7 @@ def list_to_str(k):
 __repo__ = "sourcecodeemled.com"
 __version__ = "Born Baby"
 __license__ = "Local License"
-__copyright__ = "Copyright (C) 2024-present Benzmovies <nolinkavailabe.com>"
+__copyright__ = "Copyright (C) 2024-present ACDRIPS <nolinkavailabe.com>"
 
 async def search_gagala(text):
     usr_agent = {
