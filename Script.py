@@ -8,8 +8,8 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/Benzmovies>Benzmawa</a>
-✯ Best Friend : <a herf=https://telegram.dog/telugumvxyz2>Telugumv</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/Acdsupportbot>ACDRIPS</a>
+✯ Best Friend : <a herf=https://telegram.dog/benzmovies>Benzmawa</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: Own system......
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Localhost
 ✯ Mʏ Sᴇʀᴠᴇʀ: serveremledhu.com
@@ -29,7 +29,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/Benzmovies</code>"""
+</code>/batch https://t.me/MusicMechanics</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
@@ -232,7 +232,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
  🎛 Countries : <code>{countries}</code>  
   
  Requested by : {message.from_user.mention}  
- Powered By @Benzmovies"""
+ Powered By @MusicMechanics"""
    
   
  
